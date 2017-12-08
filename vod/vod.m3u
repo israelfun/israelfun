@@ -1,3 +1,29 @@
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",rapidvideo
+http://0.0.0.0:8080/stream.php?s=rv&f=n5npuEXo
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",myfile
+http://0.0.0.0:8080/stream.php?s=myfile&f=68d959cb43ad0b24
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",upfile
+http://0.0.0.0:8080/stream.php?s=upf2&f=610697976
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",raptu
+http://0.0.0.0:8080/stream.php?s=bit&f=UB1B4Oaz
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",uptostream
+http://0.0.0.0:8080/stream.php?s=uptostream&f=6jne4htaz4nj
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",sendit
+http://0.0.0.0:8080/stream.php?s=sendit&f=1ixmkopz29eo
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",vidlox
+http://0.0.0.0:8080/stream.php?s=vidlox&f=z6wg5j6r5lo6
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",vidzella
+http://0.0.0.0:8080/stream.php?s=vidzella&f=N07T
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",clipwatching
+http://0.0.0.0:8080/stream.php?s=clipwatching&f=oqtduc6yq4kr/Narcos.S01E09.WEBRip.x264-TASTETV.mp4
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",walla
+http://0.0.0.0:8080/stream.php?s=walla&f=episode/2803297
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",estream
+http://0.0.0.0:8080/stream.php?s=estream&f=89xtz6pkqplm
+#EXTINF:-1 description="יש לבצע נסיון האם הסרטון הזה עובד, במידה ולא לכתוב לי בקבוצע את שם הסרטון בבקשה." group-title="נסיון",vidzi
+http://0.0.0.0:8080/stream.php?s=vidzi&f=xf3d984qzr1i
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6kwunWUi52EjNhep33sJ9uEnqX.jpg" description="מתנקש מחפש נחמה לאחר שקיבל הזדמנות שנייה לחייו" group-title="סרטים", 24 שעות לחיות (2017)
 http://0.0.0.0:8080/stream.php?s=uptostream&f=yzdgq3nt2v25
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k1bPjoZsPsox2HsImb2NKUHWP3i.jpg" description="פסיכולוג מתחיל לעבוד עם נער צעיר שסבל נפילה קטלנית כמעט ומוצא את עצמו נשאב לתוך תעלומה שבודקת את הגבולות של פנטזיה ומציאות." group-title="סרטים", 9 הנשמות של לואיס דארקס (2016)
