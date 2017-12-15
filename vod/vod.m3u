@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 description="{זמני כניסת שבת.\nשבת שלום.}" group-title="זמני שבת",זמני שבת
 http://0.0.0.0:8080/stream.php?s=rv&f=FMHMMK8H2Y
 
