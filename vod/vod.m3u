@@ -1,5 +1,5 @@
-#EXTINF:-1,זמני שבת
-http://0.0.0.0:8080/stream.php?s=rv&f=n5npuEXo
+#EXTINF:-1 description="{זמני כניסת שבת.\nשבת שלום.}" group-title="זמני שבת",זמני שבת
+http://0.0.0.0:8080/stream.php?s=rv&f=FMHMMK8H2Y
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s6kwunWUi52EjNhep33sJ9uEnqX.jpg" description="מתנקש מחפש נחמה לאחר שקיבל הזדמנות שנייה לחייו" group-title="סרטים", 24 שעות לחיות (2017)
 http://0.0.0.0:8080/stream.php?s=uptostream&f=yzdgq3nt2v25
